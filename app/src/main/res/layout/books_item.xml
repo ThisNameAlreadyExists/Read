@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/id_books_item"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingLeft="5.0dp"
+    android:paddingRight="5.0dp"
+    android:paddingBottom="15.0dp">
+
+    <TextView
+        android:id="@+id/tv_book_title"
+        android:text="仙逆"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:text="耳根"
+        android:id="@+id/tv_book_author"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="16sp"
+        android:textColor="#002C84"/>
+
+    <TextView
+        android:text="耳根新书《一念永恒》，正式发布"
+        android:id="@+id/tv_book_newChapter"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="16sp"
+        android:textColor="#002C84"/>
+
+    <TextView
+        android:text="2016-11-09 20：36"
+        android:id="@+id/tv_book_updTime"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="14sp"/>
+
+</LinearLayout>

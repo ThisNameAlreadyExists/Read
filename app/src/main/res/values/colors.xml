@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="titleBg">#00BCD5</color>
+    <color name="background">#FAFAFA</color>
+    <color name="bottomNavHomePage">#2293F4</color>
+    <color name="bottomNavNews">#8D6B63</color>
+    <color name="bottomNavBook">#00776A</color>
+    <color name="bottomNavReleax">#F37A00</color>
+</resources>
